@@ -30,6 +30,7 @@
             <li><a href="postedjobs.php">POSTED JOBS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></li>
             <li><a href="mentorrequests.php">MENTOR REQUESTS</a></li>
             <li><a href="updateevents.php">UPDATE EVENTS&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></li>
+            <li><a href="updategallery.php">Gallery&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></li>
             <li><a href="logout.php">LOGOUT &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</a></li>
         </ul></b>
     </div>

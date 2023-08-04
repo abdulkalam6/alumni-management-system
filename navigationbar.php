@@ -23,6 +23,7 @@
         <div class="list-items">
             <ul><b>
                 <li><a href="alumnihome.php">HOME</a></li>
+                <li><a href="profile.php">PROFILE</a></li>
                 <li><a href="aboutus.php">ABOUT US</a></li>
                 <li><a href="gallery.php">GALLERY</a></li>
                 <li><a href="events.php">EVENTS</a></li>
